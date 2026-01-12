@@ -1,0 +1,121 @@
+{
+  "005": {
+    "sid": "5000",
+    "channelNumber": "005",
+    "name": "Channel 6",
+    "quality": "SD",
+    "genre": 3
+  },
+  "008": {
+    "sid": "5001",
+    "channelNumber": "008",
+    "name": "Channel 9",
+    "quality": "SD",
+    "genre": 3
+  },
+  "012": {
+    "sid": "5002",
+    "channelNumber": "012",
+    "name": "xuria",
+    "quality": "SD",
+    "genre": 3
+  },
+  "024": {
+    "sid": "5003",
+    "channelNumber": "024",
+    "name": "Central",
+    "quality": "SD",
+    "genre": 3
+  },
+  "032": {
+    "sid": "5004",
+    "channelNumber": "032",
+    "name": "CNA",
+    "quality": "SD",
+    "genre": 3
+  },
+  "028": {
+    "sid": "5005",
+    "channelNumber": "028",
+    "name": "Channel V",
+    "quality": "SD",
+    "genre": 3
+  },
+  "030": {
+    "sid": "5006",
+    "channelNumber": "030",
+    "name": "Channel J",
+    "quality": "SD",
+    "genre": 3
+  },
+  "996": {
+    "sid": "1850",
+    "channelNumber": "996",
+    "name": "Chl Line-up",
+    "quality": "RA",
+    "genre": 0
+  },
+  "998": {
+    "sid": "1022",
+    "channelNumber": "998",
+    "name": "Sky Intro",
+    "quality": "HD",
+    "genre": 15
+  },
+  "999": {
+    "sid": "1810",
+    "channelNumber": "999",
+    "name": "Sky",
+    "quality": "SD",
+    "genre": 0
+  },
+  "2049": {
+    "sid": "8040",
+    "channelNumber": "2049",
+    "name": "My Sky",
+    "quality": "SD",
+    "genre": 0
+  },
+  "0101": {
+    "sid": "2111",
+    "channelNumber": "0101",
+    "name": "BBC R1",
+    "quality": "RA",
+    "genre": 4
+  },
+  "4902": {
+    "sid": "8346",
+    "channelNumber": "4902",
+    "name": "Reset your PIN",
+    "quality": "SD",
+    "genre": 0
+  },
+  "4903": {
+    "sid": "8266",
+    "channelNumber": "4903",
+    "name": "My Account",
+    "quality": "SD",
+    "genre": 0
+  },
+  "4904": {
+    "sid": "8459",
+    "channelNumber": "4904",
+    "name": "Get Sky Products",
+    "quality": "SD",
+    "genre": 0
+  },
+  "4905": {
+    "sid": "8331",
+    "channelNumber": "4905",
+    "name": "Help and Support",
+    "quality": "SD",
+    "genre": 0
+  },
+  "4906": {
+    "sid": "8301",
+    "channelNumber": "4906",
+    "name": "Program Your Remote",
+    "quality": "SD",
+    "genre": 0
+  }
+}

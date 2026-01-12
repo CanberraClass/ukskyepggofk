@@ -1,0 +1,190 @@
+{
+  "services": [
+    {
+      "sid": "5000",
+      "c": "006",
+      "t": "Channel 6",
+      "sg": 3,
+      "xsg": 3,
+      "sf": "SD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST", "OTT"]
+    },
+    {
+      "sid": "5001",
+      "c": "009",
+      "t": "Channel 6",
+      "sg": 3,
+      "xsg": 3,
+      "sf": "SD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST", "OTT"]
+    },
+    {
+      "sid": "5002",
+      "c": "012",
+      "t": "xuria",
+      "sg": 3,
+      "xsg": 3,
+      "sf": "SD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST", "OTT"]
+    },
+    {
+      "sid": "5003",
+      "c": "024",
+      "t": "central",
+      "sg": 3,
+      "xsg": 3,
+      "sf": "SD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST", "OTT"]
+    },
+    {
+      "sid": "5004",
+      "c": "032",
+      "t": "Channel NewsMac",
+      "sg": 3,
+      "xsg": 3,
+      "sf": "SD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST", "OTT"]
+    },
+    {
+      "sid": "5005",
+      "c": "028",
+      "t": "Channel V",
+      "sg": 3,
+      "xsg": 3,
+      "sf": "SD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST", "OTT"]
+    },
+    {
+      "sid": "5006",
+      "c": "030",
+      "t": "Channel J",
+      "sg": 3,
+      "xsg": 3,
+      "sf": "SD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST", "OTT"]
+    },
+    {
+      "sid": "1850",
+      "c": "996",
+      "t": "Chl Line-up",
+      "sg": 0,
+      "xsg": 0,
+      "sf": "RA",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST"]
+    },
+    {
+      "sid": "1022",
+      "c": "998",
+      "t": "Sky Intro",
+      "xsg": 15,
+      "sf": "HD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST"]
+    },
+    {
+      "sid": "1810",
+      "c": "999",
+      "t": "Sky",
+      "sg": 0,
+      "xsg": 0,
+      "sf": "SD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST"]
+    },
+    {
+      "sid": "8040",
+      "c": "2049",
+      "t": "My Sky",
+      "sg": 0,
+      "xsg": 0,
+      "sf": "SD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST"]
+    },
+    {
+      "sid": "2111",
+      "c": "",
+      "t": "BBC R1",
+      "sg": 4,
+      "xsg": 4,
+      "sf": "RA",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST"]
+    },
+    {
+      "sid": "8346",
+      "c": "4902",
+      "t": "Reset your PIN",
+      "sg": 0,
+      "xsg": 0,
+      "sf": "SD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST"]
+    },
+    {
+      "sid": "8266",
+      "c": "4903",
+      "t": "My Account",
+      "sg": 0,
+      "xsg": 0,
+      "sf": "SD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST"]
+    },
+    {
+      "sid": "8459",
+      "c": "4904",
+      "t": "Get Sky Products",
+      "sg": 0,
+      "xsg": 0,
+      "sf": "SD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST"]
+    },
+    {
+      "sid": "8331",
+      "c": "4905",
+      "t": "Help and Support",
+      "sg": 0,
+      "xsg": 0,
+      "sf": "SD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST"]
+    },
+    {
+      "sid": "8301",
+      "c": "4906",
+      "t": "Program Your Remote",
+      "sg": 0,
+      "xsg": 0,
+      "sf": "SD",
+      "adult": false,
+      "local": false,
+      "avail": ["BROADCAST"]
+    }
+  ]
+}
