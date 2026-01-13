@@ -107,7 +107,7 @@ export interface Programme {
    *
    * Original: `r`
    */
-  rating: '--' | 'U' | 'PG' | '12' | '15' | '18' | 'R' | 'R+'
+  rating: '--' | 'G' | 'PG' | 'PG13' | 'NC16' | 'M18' | 'R' | 'R+'
   /**
    * Audio technology for the programme.
    *
@@ -196,7 +196,7 @@ export interface Programme {
   channelGenreId: number
 }
 
-const EPG_API_URL = 'https://awk.epgsky.com/hawk/linear/schedule'
+const EPG_API_URL = 'https://tv-sg.com/'
 
 /**
  * Gets EPG schedule for a specified channel and date.
